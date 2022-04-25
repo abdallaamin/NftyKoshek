@@ -3,6 +3,7 @@
 
 # NftyKoshek
 an NFTs marketplace where you can sell , bid and trade NFTs built using React Native  ,
+including original NFTs created by me (abdalla amin)
 </br>
 built using:
 <li>React native </li>
