@@ -20,5 +20,5 @@ built using:
   </h2>
   
   
- <p>for development </P>
-  -expo start 
+ <h4> to run for development </h4>
+  <h5>expo start </h5>
